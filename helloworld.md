@@ -102,7 +102,7 @@ java HelloWorld
 ```
 # x86_64 Assembly
 
-```x86_64
+```x86_64 Assembly
 Build with:
   TODO
 Run with:
@@ -164,3 +164,4 @@ print("Hello, World!")
 Run with:
 lua helloworld.lua
 ```
+
